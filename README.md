@@ -1,5 +1,12 @@
 # Central Academy of Police Training, Bhopal
 
+## Ethical Hacking - 5 Day Course
+
+**Team:**
+1. Mrunal Singh [:link:](https://www.linkedin.com/in/mrunal-singh-324a60208) [:email:](singmrunal9920@gmail.com)
+1. Ravneet Singh
+1. Rahul Dhangar [:link:](https://www.linkedin.com/in/rahuldhangar) [:email:](rahuldhangar@gmail.com)
+
 ## Training Schedule
 
 ### 1. Introduction to Cybercrime and Ethical Hacking
